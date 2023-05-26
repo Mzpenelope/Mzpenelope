@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Phillipa Aidoo
 - 👀 I'm interested in web development, software engineering, and creating innovative solutions.
-- 🌱 I'm currently learning the latest front-end technologies like React and improving my skills in backend development with Node.js.
+- 🌱 I'm currently learning the latest front-end technologies like React and improving my skills in backend development with Node.js @Alx
 - 💞️ I'm looking to collaborate on exciting projects that challenge me and allow me to contribute my expertise in building robust and user-friendly applications.
 - 📫 You can reach me through the following channels:
 - GitHub: @Mzpenelope
