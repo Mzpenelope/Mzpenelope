@@ -7,7 +7,7 @@
  ```
 ![Introductory Banner](https://github.com/Mzpenelope/practice/raw/bb5c3e99eea0b54acc6ff89b93fc700eb136b439/phill.jpg)
 
-## Heya! 
+# Profile 
 - 👋 I'm Phillipa Aidoo
 - 🙋‍♀️ I'm interested in web development, software engineering, and creating innovative solutions.
 - 👩‍🎓 I'm currently learning the latest front-end technologies like React and improving my skills in backend development with Node.js @Alx
