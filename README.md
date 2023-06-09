@@ -6,7 +6,7 @@
                                         \ V  V /  __/ | (_| (_) | | | | | |  __/ |_|
                                          \_/\_/ \___|_|\___\___/|_| |_| |_|\___| (_)
  ```
-![Introductory Banner](https://github.com/Mzpenelope/practice/raw/bb5c3e99eea0b54acc6ff89b93fc700eb136b439/phill.jpg)
+![Introductory Banner](https://github.com/Mzpenelope/practice/raw/45119f3fd7286469c8a843bb30ae670596d41665/png.png)
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=40&pause=1000&color=27C9F7&width=435&lines=PROFILE" alt="Typing SVG" /></a>
 - 👋 I'm Phillipa Aidoo
