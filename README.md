@@ -7,7 +7,7 @@
  ```
 ![Introductory Banner](https://github.com/Mzpenelope/practice/raw/bb5c3e99eea0b54acc6ff89b93fc700eb136b439/phill.jpg)
 
-# Profile 
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=40&pause=1000&color=27C9F7&width=435&lines=PROFILE" alt="Typing SVG" /></a>
 - 👋 I'm Phillipa Aidoo
 - 🙋‍♀️ I'm interested in web development, software engineering, and creating innovative solutions.
 - 👩‍🎓 I'm currently learning the latest front-end technologies like React and improving my skills in backend development with Node.js @Alx
