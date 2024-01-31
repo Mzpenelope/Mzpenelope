@@ -10,9 +10,12 @@
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=40&pause=1000&color=27C9F7&width=435&lines=PROFILE" alt="Typing SVG" /></a>
 - 👋 I'm Phillipa Aidoo
-- 🙋‍♀️ I'm interested in web development, software engineering, and creating innovative solutions.
+- 🚀 Passionate about web development, software engineering, and crafting innovative solutions.
 - 👩‍🎓 I'm currently learning the latest front-end technologies like React and improving my skills in backend development with Node.js @Alx
-- 🤝 I'm looking to collaborate on exciting projects that challenge me and allow me to contribute my expertise in building robust and user-friendly applications.
+- 🤝 Seeking collaborations on projects that challenge me; ready to contribute expertise in building robust and user-friendly applications
+- 🌐 Skills span digital marketing, cybersecurity, project management, frontend development, and software engineering.
+- 🎓 Diverse professional background, from media to tutoring, with a journalism touch in education.
+- 🎵 Outside tech, I'm into music and writing—consider me a creative genius!
 - 📫 You can reach me through the following channels:
 - 👩‍💻 GitHub: @Mzpenelope
 - 🔗 LinkedIn: http://www.linkedin.com/in/phillipa-aidoo
@@ -20,8 +23,20 @@
 
 I am passionate about crafting elegant and efficient code, with a keen eye for detail and a drive for continuous learning. With a solid foundation in programming principles and a dedication to staying up-to-date with industry trends, I strive to deliver high-quality solutions that exceed expectations.
 
-My GitHub repositories showcase my diverse projects and demonstrate my skills in various programming languages and frameworks. From responsive web designs to interactive applications, my work reflects my commitment to creating meaningful experiences for users.
-
 I believe in the power of collaboration and enjoy working with motivated individuals and teams. If you have an exciting project in mind or are looking to bring your ideas to life, I would be thrilled to discuss potential collaborations and contribute my expertise.
 
-Let's connect and embark on an inspiring journey of innovation and growth! Feel free to reach out to me through the provided channels.
+### TECH STACK: 💻
+
+![General](https://img.shields.io/badge/General-Technology%20Stack-blue?style=flat&logo=your-logo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-ALX%20Mastermind-23cc52?style=flat&logo=python&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-C%20%7C%20Python%20%7C%20HTML%20%7C%20JavaScript%20%7C%20CSS-blue?style=flat&logo=code&logoColor=white)
+![Frameworks](https://img.shields.io/badge/Frameworks-Django%20%7C%20Flask-green?style=flat&logo=django&logoColor=white)
+![Current Endeavor](https://img.shields.io/badge/Current%20Endeavor-React%20%7C%20Node.js%20%40Alx-61dafb?style=flat&logo=react&logoColor=white)
+![Ongoing Exploration](https://img.shields.io/badge/Ongoing%20Exploration-Backend%20Wonders%20%7C%20ML%20Adventures-purple?style=flat&logo=python&logoColor=white)
+
+### BADGES
+![Google Project Management Certificate](https://images.credly.com/size/200x200/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)
+![Google Cybersecurity Certificate](https://images.credly.com/size/230x230/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
+![https://images.credly.com/size/340x340/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png](https://images.credly.com/size/200x200/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
+
