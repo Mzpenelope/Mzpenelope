@@ -38,5 +38,5 @@ I believe in the power of collaboration and enjoy working with motivated individ
 ### BADGES
 ![Google Project Management Certificate](https://images.credly.com/size/200x200/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)
 ![Google Cybersecurity Certificate](https://images.credly.com/size/230x230/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
-![https://images.credly.com/size/340x340/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png](https://images.credly.com/size/200x200/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
-
+![Google Digital Marketing and E-Commerce Professional Certificate](https://images.credly.com/size/200x200/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
+![Google Data Analytics Professional Certificate](https://images.credly.com/size/200x200/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
