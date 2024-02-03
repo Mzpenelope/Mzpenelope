@@ -36,7 +36,15 @@ I believe in the power of collaboration and enjoy working with motivated individ
 ![Ongoing Exploration](https://img.shields.io/badge/Ongoing%20Exploration-Backend%20Wonders%20%7C%20ML%20Adventures-purple?style=flat&logo=python&logoColor=white)
 
 ### BADGES
-![Google Project Management Certificate](https://images.credly.com/size/200x200/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)
-![Google Cybersecurity Certificate](https://images.credly.com/size/230x230/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
-![Google Digital Marketing and E-Commerce Professional Certificate](https://images.credly.com/size/200x200/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
-![Google Data Analytics Professional Certificate](https://images.credly.com/size/200x200/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
+![Google Cybersecurity Certificate](https://images.credly.com/size/240x240/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
+![Google IT Support Professional Certificate](https://images.credly.com/size/240x240/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png)
+![Google Project Management Certificate](https://images.credly.com/size/240x240/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)
+![Google Digital Marketing and E-Commerce Professional Certificate](https://images.credly.com/size/240x240/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
+
+![Google Data Analytics Professional Certificate](https://images.credly.com/size/240x240/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
+![Google Business Intelligence Certificate](https://images.credly.com/size/240x240/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png)
+![Google UX Design Professional Certificate](https://images.credly.com/size/240x240/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)
+![ Google Advanced Data Analytics Certificate](https://images.credly.com/size/240x240/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)
+
+
+
